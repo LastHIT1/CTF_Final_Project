@@ -6,9 +6,9 @@ This CTF setup consists of five levels, each designed to test your skills in Lin
 
 Follow the instructions below to navigate through the setup and start the challenges:
 
-======================================================================
+=============================================
 CHALLENGE STRUCTURE:
-======================================================================
+=============================================
 1. Each level is stored in its own directory under the "Final" folder.
 2. Navigate to the directory for the desired challenge, e.g.:
    cd Final/level1
