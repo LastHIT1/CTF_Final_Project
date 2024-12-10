@@ -6,7 +6,7 @@ This CTF setup consists of five levels, each designed to test your skills in Lin
 
 Follow the instructions below to navigate through the setup and start the challenges:
 
-=============================================
+
 CHALLENGE STRUCTURE:
 =============================================
 1. Each level is stored in its own directory under the "Final" folder.
@@ -17,9 +17,9 @@ CHALLENGE STRUCTURE:
    - A challenge script (e.g., level_one.sh) to set up the environment.
    - A README.txt file (specific to the challenge) with hints and instructions.
 
-======================================================================
+
 HOW TO START A CHALLENGE:
-======================================================================
+=============================================
 1. Navigate to the directory of the level you want to start:
    cd Final/level<number>
 
@@ -28,15 +28,15 @@ HOW TO START A CHALLENGE:
 
 3. Follow the instructions displayed after running the script.
 
-======================================================================
+
 RESETTING A CHALLENGE:
-======================================================================
+=============================================
 - If a challenge modifies permissions or processes, instructions to reset will be included after the challenge script runs.
 - Typically, resetting involves commands like `chmod` to restore permissions or rerunning the setup script to restart the environment.
 
-======================================================================
+
 LEVEL DESCRIPTIONS:
-======================================================================
+=============================================
 1. **Level 1: Hidden File with Base64 Encoded Flag**
    - Find a hidden file and decode its base64 content to reveal the flag.
 
@@ -52,14 +52,14 @@ LEVEL DESCRIPTIONS:
 5. **Level 5: Find the Running Process**
    - Identify a rogue process, monitor dynamic files, and extract the hidden flag.
 
-======================================================================
+
 HELP AND HINTS:
-======================================================================
+=============================================
 - Each level's README.txt file contains hints to help you solve the challenge.
 - Make use of Linux commands like `ls`, `find`, `grep`, `awk`, `ps`, and `chmod` to navigate and complete the challenges.
 
-======================================================================
+
 HAVE FUN!
-======================================================================
+=============================================
 Good luck, and may the best CTF champion emerge victorious!
 
