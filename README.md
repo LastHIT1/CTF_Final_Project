@@ -2,6 +2,8 @@
 ## BY: Andres Ferreira, Alejandro Terzini, Valery Pena
 Welcome to the Capture The Flag (CTF) Challenges!
 
+This is a Linux-based CTF exercise, make sure when attemping this you donwload and run on a Linux enviornmnet.
+
 This CTF setup consists of five levels, each designed to test your skills in Linux command-line operations, file handling, process management, and more.
 
 Follow the instructions below to navigate through the setup and start the challenges:
